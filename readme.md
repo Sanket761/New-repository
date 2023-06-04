@@ -1,6 +1,6 @@
 # Week 2 Scripting Like a Developer
 
-The code found in tyhios repository is to help you learn how to script like a developer.
+The code found in this repository is to help you learn how to script like a developer.
 
 ## WIP
 The code found in `Week-2-Scripting-Like-A-Developer` is currently a work In Progress (WIP) and the readme will be updated when ready 
